@@ -1,0 +1,6 @@
+query ListCluster {
+  daskClusters {
+    name
+    id
+  }
+}
